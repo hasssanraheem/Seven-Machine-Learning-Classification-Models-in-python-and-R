@@ -1,0 +1,2 @@
+# Seven-Machine-Learning-Classification-Models-in-python-and-R
+This repository provides implementations of seven major classification techniques in Python and R, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), Kernel SVM, Naive Bayes, and K-Nearest Neighbors (KNN). Each model is organized in its own module with clean code, datasets, and usage instructions.
